@@ -55,17 +55,17 @@ https://github.com/TecOrb-Developers/rails-doorkeeper-auth
 ### Major steps are followed to create this project.
   * Prepared with above dependencies
   * Created a new Rails app
-  * Database configuration setup (using MySQL)
+  * Database configuration setup (using *MySQL*)
   * Initialize a local repository using git
-  * .gitignore file created to add configuration.yml
-  * configuration.yml file created to initialize environment variables  
+  * *.gitignore* file created to add *configuration.yml*
+  * *configuration.yml* file created to initialize environment variables  
   * Create a new remote repository using GitHub  
-  * Change README.md and documentation added
+  * Change *README.md* and documentation added
   * Code Commited and Pushed to GitHub repository
 
 #### Create configuration.yml to setup required environment variables
 	* Go to the config directory
-	* Create a new file with name configuration.yml
+	* Create a new file with name *configuration.yml*
 
 Here are the variables we need to define in this file:
 ```
